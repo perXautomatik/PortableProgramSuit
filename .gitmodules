@@ -1,6 +1,6 @@
 [submodule "4. windows enh"]
 	path = 4. windows enh
-	url = D:/portapps/4, windows enhance
+	url = https://github.com/perXautomatik/scoop-systemtweaks.git
 [submodule "9. audio"]
 	path = 9. audio
 	url = D:/portapps/5. audio
